@@ -8,5 +8,15 @@
       "view": "#",
       "code": "https://github.com/phmhienn/StockPricePrediction.git"
     }
+  },
+  {
+    "name": "Figure E-commerce Website",
+    "desc": "An online store for selling collectible figures with user authentication, product management, shopping cart, and payment integration.",
+    "image": "websitefigure",
+    "category": "mern",
+    "links": {
+      "view": "https://figurestore-production-ab72.up.railway.app/",
+      "code": "https://github.com/phmhienn/figure_store.git"
+    }
   }
 ]
